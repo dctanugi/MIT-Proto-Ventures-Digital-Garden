@@ -1,3 +1,5 @@
+#venture_ideas #work/proto_ventures
+
 ## Description of capability
 Develop equipment that produces low-carbon phosphorus.
 
