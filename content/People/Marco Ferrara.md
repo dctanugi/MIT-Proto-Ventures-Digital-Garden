@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Form Energy]]"
 division: 
-title: Co-founder and Senior Vice President of Software and Analytics
+job title: Co-founder and Senior Vice President of Software and Analytics
 contact_type: startup_operators
 ---
 ## About

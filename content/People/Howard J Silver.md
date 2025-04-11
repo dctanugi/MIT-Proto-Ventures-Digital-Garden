@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: 
-title: Librarian
+job title: Librarian
 contact_type:
 ---
 ## About

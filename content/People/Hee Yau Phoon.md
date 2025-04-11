@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: 
-title: Sloan Fellow
+job title: Sloan Fellow
 contact_type: team_member
 ---
 ## About

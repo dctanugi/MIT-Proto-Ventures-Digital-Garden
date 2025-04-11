@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: Commonwealth Fusion Systems
 division: Open Innovation
-title: Principal
+job title: Principal
 contact_type: industry
 ---
 ## About

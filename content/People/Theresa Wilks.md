@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSF
-title: Lead Scientific Coordinator for DIII-D Collaboration
+job title: Lead Scientific Coordinator for DIII-D Collaboration
 contact_type: researcher
 ---
 ## About

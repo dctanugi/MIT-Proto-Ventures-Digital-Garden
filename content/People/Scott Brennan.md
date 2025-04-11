@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/scott-brennan-71aa071/
 company: "[[Cascadia CAC]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

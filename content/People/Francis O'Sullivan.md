@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[S2G Ventures]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

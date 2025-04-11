@@ -5,7 +5,7 @@ tags:
 website: https://www.flagshippioneering.com/people/brad-coleman
 company: "[[Flagship Pioneering]]"
 division: Fellowship & Talent Development
-title: Director
+job title: Director
 contact_type: investor
 ---
 ## About

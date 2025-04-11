@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/mike-wigram-028318138/
 company: MIT
 division: PSFC
-title: Research Scientist
+job title: Research Scientist
 contact_type: researcher
 ---
 ## About

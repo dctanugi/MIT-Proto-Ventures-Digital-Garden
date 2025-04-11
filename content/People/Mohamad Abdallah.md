@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/mohamad-abdallah-0aa10687/
 company: Tokamak Energy
-title: Head of Reactor Fuel Systems
+job title: Head of Reactor Fuel Systems
 contact_type: ecosystem
 ---
 ## About

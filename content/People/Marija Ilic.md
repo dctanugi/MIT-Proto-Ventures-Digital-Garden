@@ -6,7 +6,7 @@ tags:
 website: 
 company: MIT
 division: 
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

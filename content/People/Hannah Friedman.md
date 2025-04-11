@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Planeteer Capital]]"
 division: 
-title: Founder
+job title: Founder
 contact_type: investor
 ---
 ## About

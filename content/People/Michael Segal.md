@@ -1,7 +1,7 @@
 ---
 tags: people, work/proto_ventures
 company: Commonwealth Fusion Systems
-title: head of open innovation
+job title: head of open innovation
 contact_type: corporate
 ---
 ## About

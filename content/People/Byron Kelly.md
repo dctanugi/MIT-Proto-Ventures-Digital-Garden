@@ -6,7 +6,7 @@ tags:
 website: https://www.linkedin.com/in/byronmatthewkelly/
 company: "[[NextEra Energy]]"
 division: Investment Team
-title: Climate Tech Investor
+job title: Climate Tech Investor
 contact_type: investor
 ---
 ## About

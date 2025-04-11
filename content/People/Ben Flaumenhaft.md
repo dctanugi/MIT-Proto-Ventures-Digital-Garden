@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: 
 division:
-title: 
+job title: 
 contact_type: cofounder
 ---
 ## About

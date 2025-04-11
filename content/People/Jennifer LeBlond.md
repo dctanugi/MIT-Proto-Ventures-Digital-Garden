@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/jennifer-le-blond/
 company: UK Government
 division: Science & Innovation Network
-title: Director Eastern US
+job title: Director Eastern US
 contact_type: 
 ---
 ## About

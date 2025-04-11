@@ -6,7 +6,7 @@ tags:
 website: 
 company: French Consulate in Boston
 division: Science and Technology
-title: 
+job title: 
 contact_type: government
 ---
 ## About

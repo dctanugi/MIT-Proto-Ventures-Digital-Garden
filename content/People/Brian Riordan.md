@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Avalanche Energy]]"
 division: 
-title: COO
+job title: COO
 contact_type: startup_operators
 ---
 ## About

@@ -6,7 +6,7 @@ tags:
 website: https://www.linkedin.com/in/nishank-saxena-a0b17514/
 company: "[[Shell]]"
 division: Innovation & Performance
-title: Energy Transition Opportunity Lead
+job title: Energy Transition Opportunity Lead
 contact_type: corporate
 ---
 ## About

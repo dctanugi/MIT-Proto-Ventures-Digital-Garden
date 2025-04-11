@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 company: MIT
 division: PSFC
-title: Mechanical Engineer
+job title: Mechanical Engineer
 contact_type: researcher
 ---
 ## About

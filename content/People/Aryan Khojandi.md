@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Sloan
-title: Doctoral candidate
+job title: Doctoral candidate
 contact_type: serial entrepreneurs
 ---
 ## About

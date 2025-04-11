@@ -4,7 +4,7 @@ tags:
   - work/proto_ventures
 company: MIT
 division: PSFC
-title: Consultant
+job title: Consultant
 contact_type: team_member
 ---
 ## About

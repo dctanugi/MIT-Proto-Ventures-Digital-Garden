@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/zafer-sahinoglu/
 company: "[[Mitsubishi Electric]]"
 division: Mitsubishi Electric Innovation Center
-title: General Manager, VP Innovation
+job title: General Manager, VP Innovation
 contact_type: corporate
 met:
 ---

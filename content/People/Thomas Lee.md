@@ -5,7 +5,7 @@ tags:
 website: https://thomaslee1911.github.io/
 company: MIT
 division: Institute for Data, Systems, and Society
-title: Doctoral candidate
+job title: Doctoral candidate
 contact_type: researcher
 ---
 ## About

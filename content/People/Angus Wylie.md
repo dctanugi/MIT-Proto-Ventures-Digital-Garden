@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: Nuclear science & engineering
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

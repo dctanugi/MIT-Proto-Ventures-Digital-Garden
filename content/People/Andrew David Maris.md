@@ -5,7 +5,7 @@ tags:
 interest_level: 3
 company: MIT
 division: PSFC
-title: PhD student
+job title: PhD student
 contact_type: researcher
 met: true
 ---

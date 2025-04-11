@@ -4,7 +4,7 @@ tags:
 website: https://www.linkedin.com/in/changcm/
 company: Lowercarbon Capital
 division: 
-title: Partner
+job title: Partner
 contact_type: investor
 ---
 ## About

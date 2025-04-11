@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Azolla Ventures]]"
 division: 
-title: General Partner
+job title: General Partner
 contact_type: investor
 ---
 ## About

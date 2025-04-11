@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSFC
-title: Director of Communications
+job title: Director of Communications
 contact_type: internal
 ---
 ## About

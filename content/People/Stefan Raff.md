@@ -5,7 +5,7 @@ tags:
 website: https://scholar.google.com/citations?user=g2lrPqQAAAAJ&hl=en
 company: Bern University of Applied Sciences
 division: Business School
-title: Professor
+job title: Professor
 contact_type:
 ---
 ## About

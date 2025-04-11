@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: NSE
-title: Doctoral candidate
+job title: Doctoral candidate
 contact_type: researcher
 ---
 ## About

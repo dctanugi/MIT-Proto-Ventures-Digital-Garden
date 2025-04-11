@@ -5,7 +5,7 @@ tags:
 website: https://www.clear-sky.com/
 company: "[[ClearSky]]"
 division: Aero/Astro
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

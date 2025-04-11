@@ -4,7 +4,7 @@ tags:
 website: https://www.vik.studio/
 company: Vik Studio
 division: 
-title: 
+job title: 
 contact_type: vendor
 ---
 ## About

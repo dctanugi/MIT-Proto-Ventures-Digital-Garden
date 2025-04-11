@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.psfc.mit.edu/people/scientific-staff/john-wright
 company: MIT
 division: PSFC
-title: Principal Research Scientist
+job title: Principal Research Scientist
 contact_type: researcher
 met: false
 ---

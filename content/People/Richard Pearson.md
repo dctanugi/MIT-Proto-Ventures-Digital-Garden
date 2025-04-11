@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Kyoto Fusioneering]]"
 division: 
-title: 
+job title: 
 contact_type:
 ---
 ## About

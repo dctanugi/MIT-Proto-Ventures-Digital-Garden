@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/angelicaoung/
 company: Taiwan Offshore Wind Unredacted
-title: Editor
+job title: Editor
 contact_type: journalist
 ---
 ## About

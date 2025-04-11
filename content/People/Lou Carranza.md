@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[CERAWeek]]"
 division: 
-title: CEO
+job title: CEO
 contact_type:
 ---
 ## About

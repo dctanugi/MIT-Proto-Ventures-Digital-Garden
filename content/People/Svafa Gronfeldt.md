@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: DesignX
-title: 
+job title: 
 contact_type: ecosystem
 ---
 ## About

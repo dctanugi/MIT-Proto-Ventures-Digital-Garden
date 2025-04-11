@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/kaanadanir/
 company: "[[Jameel Investment Management Co]]"
 division: 
-title: Senior Investment Analyst
+job title: Senior Investment Analyst
 contact_type: investor
 ---
 ## About

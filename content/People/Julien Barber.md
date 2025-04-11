@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Emerson Collective]]"
 division: ARPA-e
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

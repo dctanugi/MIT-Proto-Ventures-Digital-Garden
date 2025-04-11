@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/chrisgood/
 company: "[[Pine Island New Energy Partners]]"
 division: 
-title: Co Managing Partner
+job title: Co Managing Partner
 contact_type: investor
 ---
 ## About

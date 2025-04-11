@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Wolf Greenfield]]"
 division: 
-title: 
+job title: 
 contact_type: vendor
 ---
 ## About

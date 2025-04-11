@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/deandreas/
 company: North Carolina State Senate
 division: 
-title: Senator
+job title: Senator
 contact_type: student
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[The Engine]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

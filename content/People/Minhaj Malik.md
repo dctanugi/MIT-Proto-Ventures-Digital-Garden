@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Bruce Power]]"
 division: 
-title: 
+job title: 
 contact_type: corporate
 ---
 ## About

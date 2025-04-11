@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[RA Capital]]"
 division: 
-title: Associate
+job title: Associate
 contact_type: investor
 ---
 ## About

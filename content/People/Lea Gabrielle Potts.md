@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Sloan
-title: Fellow
+job title: Fellow
 contact_type: ecosystem
 ---
 ## About

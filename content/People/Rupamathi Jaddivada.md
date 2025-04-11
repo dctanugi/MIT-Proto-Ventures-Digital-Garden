@@ -6,7 +6,7 @@ tags:
 website: https://rjaddiva.mit.edu/home
 company: "[[SmartGridz]]"
 division: 
-title: Director of innovation
+job title: Director of innovation
 contact_type: researcher
 ---
 ## About

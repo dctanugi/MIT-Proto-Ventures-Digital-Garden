@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/renatabakousseva/
 company: "[[Pacific Gas & Electric (PG&E)]]"
 division: Microgrids
-title: 
+job title: 
 contact_type: corporate
 ---
 ## About

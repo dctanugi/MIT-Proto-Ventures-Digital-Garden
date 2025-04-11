@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Form Energy]]"
 division: 
-title: Director, Analytics
+job title: Director, Analytics
 contact_type: ecosystem
 ---
 ## About

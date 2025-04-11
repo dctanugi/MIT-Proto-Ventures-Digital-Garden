@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Sloan
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

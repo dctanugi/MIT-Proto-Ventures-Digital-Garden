@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/tmsminot/
 company: "[[HCVC]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: MIT Center for Real Estate
-title: Industry Chair, Real Estate Transformation Lab
+job title: Industry Chair, Real Estate Transformation Lab
 contact_type:
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/michael-nessim-147353/
 company: "[[Greenhill]]"
 division: 
-title: Managing Director
+job title: Managing Director
 contact_type: investor
 ---
 ## About

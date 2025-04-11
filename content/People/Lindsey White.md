@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Creo Collective]]"
 division: 
-title: Director of Programs
+job title: Director of Programs
 contact_type: donor
 ---
 ## About

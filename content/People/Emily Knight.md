@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/emily-knight-37b106a/
 company: "[[The Engine]]"
 division: 
-title: President
+job title: President
 contact_type: ecosystem
 ---
 ## About

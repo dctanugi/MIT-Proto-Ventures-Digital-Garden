@@ -4,7 +4,7 @@ tags:
 website: https://www.linkedin.com/in/abhishekravindra
 company: MIT
 division: Sloan
-title: Sloan Fellow
+job title: Sloan Fellow
 contact_type: startup_operators
 ---
 ## About

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: Materials Science & Engineering
-title: Professor
+job title: Professor
 contact_type: researcher
 met: false
 ---

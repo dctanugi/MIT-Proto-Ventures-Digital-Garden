@@ -5,7 +5,7 @@ tags:
 website: https://fab.cba.mit.edu/classes/863.14/people/nathan_melenbrink/about.html
 company: MIT
 division: NEET
-title: Founding Lead Instructor, Climate & Sustainability Systems. School of Engineering
+job title: Founding Lead Instructor, Climate & Sustainability Systems. School of Engineering
 contact_type: ecosystem
 ---
 ## About

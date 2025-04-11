@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Schneider]]"
 division: 
-title: Head of Product
+job title: Head of Product
 contact_type: advisor
 ---
 ## About

@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[HongShan Capital]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

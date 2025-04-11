@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Republic Capital]]"
 division: 
-title: Venture Partner
+job title: Venture Partner
 contact_type: startup_operators
 ---
 ## About

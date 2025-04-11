@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Mechanical Engineering
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

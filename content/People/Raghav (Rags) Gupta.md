@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/ragsgupta/
 company: "[[Hyperplane VC]]"
 division: "[[MIT Energy Initiative|MITei]]"
-title: Partner
+job title: Partner
 contact_type: investor
 ---
 ## About

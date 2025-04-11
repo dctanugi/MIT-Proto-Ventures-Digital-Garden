@@ -5,7 +5,7 @@ tags:
 company: "[[Type One Energy]]"
 interest_level: 3
 division: 
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

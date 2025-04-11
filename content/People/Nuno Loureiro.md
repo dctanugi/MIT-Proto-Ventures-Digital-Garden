@@ -5,7 +5,7 @@ tags:
 website: MIT
 company: MIT
 division: PSFC
-title: Director
+job title: Director
 contact_type: researcher
 ---
 ## About

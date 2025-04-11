@@ -5,7 +5,7 @@ tags:
 website: https://www.muus.com/kavita
 company: "[[MUUS Climate Partners]]"
 division: 
-title: Principal
+job title: Principal
 contact_type: investor
 ---
 ## About

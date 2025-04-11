@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: MITei
-title: Research scientist
+job title: Research scientist
 contact_type: researcher
 interest_level: 3
 ---

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSFC
-title: PhD student
+job title: PhD student
 contact_type: researcher
 interest_level: 2
 ---

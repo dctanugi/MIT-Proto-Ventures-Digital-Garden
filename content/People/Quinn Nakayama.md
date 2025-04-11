@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/quinnnakayama/
 company: "[[Pacific Gas & Electric (PG&E)]]"
 division: 
-title: Senior Director of Grid Research Innovation and Development
+job title: Senior Director of Grid Research Innovation and Development
 contact_type: corporate
 ---
 ## About

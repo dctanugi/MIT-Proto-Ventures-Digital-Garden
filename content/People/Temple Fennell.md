@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Clean Energy Ventures]]"
 division: 
-title: 
+job title: 
 contact_type:
 ---
 me## About

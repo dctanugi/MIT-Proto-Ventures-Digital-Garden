@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Industrial Liaison Program
-title: Program Director
+job title: Program Director
 contact_type: ecosystem
 ---
 ## About

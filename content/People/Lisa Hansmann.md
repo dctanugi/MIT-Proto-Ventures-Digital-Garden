@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/lisa-hansmann-88803171/
 company: "[[The Engine]]"
 division: 
-title: Principal
+job title: Principal
 contact_type: investor
 ---
 ## About

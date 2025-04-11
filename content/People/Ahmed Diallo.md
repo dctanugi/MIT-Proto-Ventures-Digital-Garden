@@ -3,7 +3,7 @@ tags: people, work/proto_ventures, work/industries/fusion
 website: 
 company: Department of Energy
 division: ARPA-e
-title: Program Director
+job title: Program Director
 contact_type: funder
 ---
 ## About

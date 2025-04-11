@@ -5,7 +5,7 @@ tags:
 website: 
 company: 
 division: 
-title: 
+job title: 
 contact_type: startup_operators
 ---
 ## About

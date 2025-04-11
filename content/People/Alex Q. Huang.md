@@ -5,7 +5,7 @@ tags:
 website: https://www.ece.utexas.edu/people/faculty/alex-q-huang
 company: University of Texas
 division: Semiconductor Power Electronics Center
-title: Director
+job title: Director
 contact_type: researcher
 ---
 ## About

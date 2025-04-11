@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/melissachan/
 company: "[[Fermata Energy]]"
 division: 
-title: Sr Director, Grid Solutions
+job title: Sr Director, Grid Solutions
 contact_type: startup_operators
 ---
 ## About

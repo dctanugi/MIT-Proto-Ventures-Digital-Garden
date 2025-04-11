@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Toyota Research Institute]]"
 division: Energy & Materials Division
-title: 
+job title: 
 contact_type: corporate
 ---
 ## About

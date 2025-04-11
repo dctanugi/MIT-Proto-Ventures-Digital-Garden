@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Pascal]]"
 division: 
-title: Consultant
+job title: Consultant
 contact_type: startup_operators
 ---
 ## About

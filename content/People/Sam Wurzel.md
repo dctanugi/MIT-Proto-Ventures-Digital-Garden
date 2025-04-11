@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: Dept of Energy
 division: ARPA-e
-title: Tech-to-Market Advisor
+job title: Tech-to-Market Advisor
 contact_type: advisor
 ---
 ## About

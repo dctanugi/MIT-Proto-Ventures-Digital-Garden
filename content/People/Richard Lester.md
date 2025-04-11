@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[MIT]]"
 division: 
-title: Professor
+job title: Professor
 contact_type: ecosystem
 ---
 ## About

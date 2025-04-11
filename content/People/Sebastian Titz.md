@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[3M]]"
 division: New Growth Ventures
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

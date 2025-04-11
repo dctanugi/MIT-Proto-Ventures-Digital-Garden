@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/olivierpincon/
 company: ZappyRide
 division: 
-title: Co-founder
+job title: Co-founder
 contact_type: startup_operators
 ---
 ## About

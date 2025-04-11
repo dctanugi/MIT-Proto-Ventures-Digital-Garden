@@ -5,7 +5,7 @@ tags:
 website: https://news.utexas.edu/2024/04/15/new-associate-vice-president-to-accelerate-innovation-research-commercialization-and-startups/
 company: UT Austin
 division: 
-title: 
+job title: 
 contact_type: ecosystem
 ---
 ## About

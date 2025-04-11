@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/xing-meng-823a381/
 company: 5Y Capital
 division: 
-title: Partner
+job title: Partner
 contact_type: investor
 ---
 ## About

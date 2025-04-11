@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: 
-title: Former PhD student
+job title: Former PhD student
 contact_type: researcher
 ---
 ## About

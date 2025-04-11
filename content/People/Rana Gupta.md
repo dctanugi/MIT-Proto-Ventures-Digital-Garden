@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: "[[Deshpande Center]]"
-title: Executive Director
+job title: Executive Director
 contact_type: ecosystem
 ---
 ## About

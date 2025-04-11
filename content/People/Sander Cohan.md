@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[National Grid]]"
 division: National Grid Partners
-title: Director
+job title: Director
 contact_type: investor
 ---
 ## About

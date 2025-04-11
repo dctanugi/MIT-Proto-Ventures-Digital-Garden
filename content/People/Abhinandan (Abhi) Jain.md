@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.media.mit.edu/people/abyjain/overview/
 company: MIT
 division: Media Lab
-title: Research Assistant
+job title: Research Assistant
 contact_type: researcher
 ---
 ## About

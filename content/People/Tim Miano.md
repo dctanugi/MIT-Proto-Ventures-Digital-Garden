@@ -4,7 +4,7 @@ tags:
   - work/proto_ventures
 company: MIT
 division: Office of Innovation
-title: Executive Director
+job title: Executive Director
 ---
 ## About
 Tim is the Executive Director of the [[MIT Office of Innovation]].

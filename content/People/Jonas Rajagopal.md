@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Mechanical Engineering, PSFC
-title: Graduate student
+job title: Graduate student
 contact_type: researcher
 ---
 ## About

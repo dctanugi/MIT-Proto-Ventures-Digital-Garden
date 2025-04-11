@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/nicorivaprina/
 company: "[[Proxima Fusion]]"
 division: 
-title: Magnet Engineer
+job title: Magnet Engineer
 contact_type: Researcher
 interest_level: 3
 ---

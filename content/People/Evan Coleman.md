@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[C1 Ventures]]"
 division: 
-title: 
+job title: 
 contact_type: venture builder
 ---
 ## About

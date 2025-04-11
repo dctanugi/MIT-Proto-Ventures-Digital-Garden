@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/samer-arafa/
 company: "[[National Grid]]"
 division: 
-title: principal engineer in the New England electric innovation and R&D team
+job title: principal engineer in the New England electric innovation and R&D team
 contact_type: corporate
 ---
 ## About

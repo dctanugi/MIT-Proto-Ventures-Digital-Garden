@@ -5,7 +5,7 @@ tags:
 website: 
 company: Global Founders Capital
 division: 
-title: Partner
+job title: Partner
 contact_type: investor
 ---
 ## About

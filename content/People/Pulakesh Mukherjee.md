@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Imperative Ventures]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

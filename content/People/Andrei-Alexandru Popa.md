@@ -5,7 +5,7 @@ tags:
 website: https://portal.findresearcher.sdu.dk/en/persons/andrei
 company: University of Southern Denmark
 division: 
-title: Assistant Professor, SDU Mechatronics
+job title: Assistant Professor, SDU Mechatronics
 contact_type: researcher
 ---
 ## About

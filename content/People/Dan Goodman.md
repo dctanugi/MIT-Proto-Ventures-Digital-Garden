@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/imdangoodman/
 company: "[[Sandy Spring Climate Partners]]"
 division: 
-title: Managing General Partner
+job title: Managing General Partner
 contact_type: investor
 ---
 ## About

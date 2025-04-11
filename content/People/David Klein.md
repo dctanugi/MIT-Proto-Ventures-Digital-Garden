@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/dave-klein-108863104
 company: "[[Alter Trading Corporation]]"
 division: 
-title: Senior VP of Non-Ferrous Marketing & Trading
+job title: Senior VP of Non-Ferrous Marketing & Trading
 contact_type: corporate
 ---
 ## About

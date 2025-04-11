@@ -5,7 +5,7 @@ tags:
 website: https://theglarusgroup.com/
 company: The Glarus Group
 division: 
-title: 
+job title: 
 contact_type: consultant
 ---
 ## About

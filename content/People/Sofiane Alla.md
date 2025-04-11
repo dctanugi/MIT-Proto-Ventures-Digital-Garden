@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Oliphant Fusion]]"
 division: "[[MIT Energy Initiative|MITei]]"
-title: CEO
+job title: CEO
 contact_type:
 ---
 ## About

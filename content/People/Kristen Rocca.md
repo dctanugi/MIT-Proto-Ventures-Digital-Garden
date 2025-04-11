@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[DCVC]]"
 division: 
-title: Principal
+job title: Principal
 contact_type: investor
 ---
 ## About

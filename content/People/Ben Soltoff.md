@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: 
-title: Entrepreneur in Residence
+job title: Entrepreneur in Residence
 contact_type:
 ---
 ## About

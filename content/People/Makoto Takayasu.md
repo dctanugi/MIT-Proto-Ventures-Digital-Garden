@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSFC
-title: Research Scientist, Group Leader, Fusion Technology & Engineering
+job title: Research Scientist, Group Leader, Fusion Technology & Engineering
 contact_type: researcher
 ---
 ## About

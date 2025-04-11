@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://jwel.mit.edu/staff/professor-john-brisson-0
 company: MIT
 division: Mechanical Engineering, PSFC
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

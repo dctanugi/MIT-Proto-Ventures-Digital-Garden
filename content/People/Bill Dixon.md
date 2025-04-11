@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[LeafLabs]]"
 division: 
-title: Entrepreneur
+job title: Entrepreneur
 contact_type: startup_operators
 ---
 ## About

@@ -4,7 +4,7 @@ tags:
   - work/proto_ventures
 website: MIT
 company: MIT
-title: Postdoctoral associate
+job title: Postdoctoral associate
 contact_type: researcher
 division: PSFC
 ---

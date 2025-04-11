@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: MITei
-title: Research Scientist
+job title: Research Scientist
 contact_type: researcher
 ---
 ## About

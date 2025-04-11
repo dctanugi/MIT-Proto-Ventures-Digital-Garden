@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/harmansam/
 company: "[[Oxford Science Enterprises]]"
 division: 
-title: Principal, Head of Deep Tech
+job title: Principal, Head of Deep Tech
 contact_type: 
 ---
 ## About

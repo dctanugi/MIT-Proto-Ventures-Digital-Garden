@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Tailwind Climate]]"
 division: 
-title: Founder
+job title: Founder
 contact_type: ecosystem
 ---
 ## About

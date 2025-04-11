@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSFC
-title: Head, Plasma Science and Technology
+job title: Head, Plasma Science and Technology
 contact_type: researcher
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/divi-gupta/
 company: "[[Amazon]]"
 division: Special Projects
-title: Principal, Entrepreneur In Residence
+job title: Principal, Entrepreneur In Residence
 contact_type: corporate
 ---
 ## About

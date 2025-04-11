@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Massachusetts Clean Energy Center]]"
 division: Net Zero Grid
-title: Senior Director
+job title: Senior Director
 contact_type:
 ---
 ## About

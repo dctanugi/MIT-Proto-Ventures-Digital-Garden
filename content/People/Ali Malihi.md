@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/ali-malihi/
 company: Back Bay Group
 division: 
-title: President & Co-Founder
+job title: President & Co-Founder
 contact_type: investor
 ---
 ## About

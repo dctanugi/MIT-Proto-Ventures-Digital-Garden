@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/kyle-teamey-9a53197/
 company: "[[RA Capital]]"
 division: Planetary Health
-title: Managing Partner
+job title: Managing Partner
 contact_type: investor
 ---
 ## About

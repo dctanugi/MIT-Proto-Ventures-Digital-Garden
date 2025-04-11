@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Closed Loop Partners]]"
 division: "[[Closed Loop Ventures Group]]"
-title: Managing Director
+job title: Managing Director
 contact_type: investor
 ---
 ## About

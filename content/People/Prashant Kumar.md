@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: LGO
-title: Student
+job title: Student
 contact_type: student
 ---
 ## About

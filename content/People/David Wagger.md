@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/davidwagger/
 company: Recycled Materials Association (ReMA)
 division: 
-title: Chief Scientist
+job title: Chief Scientist
 contact_type: corporate
 ---
 ## About

@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.zapenergy.com/about
 company: Zap Energy
-title: Co-founder
+job title: Co-founder
 contact_type: industry
 ---
 ## About

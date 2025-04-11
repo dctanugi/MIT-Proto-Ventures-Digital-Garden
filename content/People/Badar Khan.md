@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/badark/
 company: Global Infrastructure Partners
-title: Senior Advisor
+job title: Senior Advisor
 contact_type: advisor
 ---
 ## About

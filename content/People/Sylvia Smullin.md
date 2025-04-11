@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/sylvia-smullin-730b8a2/
 company: "[[VEIR]]"
 division: 
-title: Director of R&D
+job title: Director of R&D
 contact_type: startup_operators
 ---
 ## About

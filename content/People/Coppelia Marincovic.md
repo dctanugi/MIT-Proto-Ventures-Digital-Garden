@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Syensqo Ventures]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

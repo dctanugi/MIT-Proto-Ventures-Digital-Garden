@@ -5,7 +5,7 @@ tags:
 website: https://www.psfc.mit.edu/people/senior-scientists/brian-labombard
 company: MIT
 division: PSFC
-title: Senior Research Scientist
+job title: Senior Research Scientist
 contact_type: researcher
 ---
 ## About

@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Copper Development Association]]"
 division: 
-title: President
+job title: President
 contact_type: corporate
 ---
 ## About

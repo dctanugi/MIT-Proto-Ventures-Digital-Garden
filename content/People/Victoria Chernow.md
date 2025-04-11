@@ -4,7 +4,7 @@ tags:
   - work/proto_ventures
 website: https://www.linkedin.com/in/vchernow/
 company: Science for America
-title: Scientist, Climate & Energy
+job title: Scientist, Climate & Energy
 contact_type: investor
 ---
 ## About

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/antonio-magnanimo-689040153/
 company: MIT
 division: PSFC
-title: Postdoctoral Research Associate
+job title: Postdoctoral Research Associate
 contact_type: researcher
 ---
 ## About

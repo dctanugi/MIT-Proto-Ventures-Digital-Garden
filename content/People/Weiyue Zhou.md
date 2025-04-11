@@ -5,7 +5,7 @@ tags:
 website: https://www.psfc.mit.edu/people/scientific-staff/weiyue-zhou
 company: MIT
 division: PSFC
-title: Postdoctoral Associate
+job title: Postdoctoral Associate
 contact_type: researcher
 ---
 ## About

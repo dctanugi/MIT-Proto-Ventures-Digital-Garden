@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: NSE
-title: Principal Research Scientist
+job title: Principal Research Scientist
 contact_type: researcher
 ---
 ## About

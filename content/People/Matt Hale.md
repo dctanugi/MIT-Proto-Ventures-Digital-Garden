@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[SunPower]]"
 division: 
-title: Director, Grid Services
+job title: Director, Grid Services
 contact_type: corporate
 ---
 ## About

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/john-boguski-b882ab95/
 company: MIT
 division: PSFC
-title: Postdoctoral Associate
+job title: Postdoctoral Associate
 contact_type: Researcher
 ---
 ## About

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT 
 division: PSFC
-title: Group Leader, MFE Integrated Modeling Group
+job title: Group Leader, MFE Integrated Modeling Group
 contact_type: researcher
 ---
 ## About

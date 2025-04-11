@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/michael-mukai-49088416/
 company: "[[Koura Global]]"
 division: Refrigerants & Medical
-title: Director of Business Development
+job title: Director of Business Development
 contact_type: corporate
 ---
 ## About

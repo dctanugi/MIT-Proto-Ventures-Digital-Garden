@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 company: MIT
 division: PSFC
-title: Director
+job title: Director
 contact_type: internal
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/timjohnston1
 company: "[[Uptown VC]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

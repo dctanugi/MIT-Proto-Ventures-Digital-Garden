@@ -4,7 +4,7 @@ tags:
 website: 
 company: MIT
 division: Course 22
-title: Graduate student
+job title: Graduate student
 contact_type: researcher
 interest_level: 3
 ---

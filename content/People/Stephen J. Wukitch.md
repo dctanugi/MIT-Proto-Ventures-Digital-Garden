@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 company: MIT
 division: PSFC
-title: Principal Research Scientist
+job title: Principal Research Scientist
 contact_type: researcher
 ---
 ## About

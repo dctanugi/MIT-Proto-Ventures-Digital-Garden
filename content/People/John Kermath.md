@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/john-kermath-a90294127/
 company: "[[London GreenCity]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

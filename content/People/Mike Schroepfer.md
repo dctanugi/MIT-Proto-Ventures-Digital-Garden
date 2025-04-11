@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Gigascale Capital]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

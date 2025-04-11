@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Speculative Technologies]]"
 division: 
-title: CEO
+job title: CEO
 contact_type: ecosystem
 ---
 ## About

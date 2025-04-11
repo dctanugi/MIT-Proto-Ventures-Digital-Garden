@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/naera/
 company: MIT
 division: Sloan
-title: 
+job title: 
 contact_type: student
 ---
 ## About

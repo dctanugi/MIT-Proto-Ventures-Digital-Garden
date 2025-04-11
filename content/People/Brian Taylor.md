@@ -5,7 +5,7 @@ tags:
 website: 
 company: Recycling Today
 division: 
-title: Senior Editor
+job title: Senior Editor
 contact_type: journalist
 ---
 ## About

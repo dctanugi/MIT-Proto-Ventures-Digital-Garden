@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/jake-kent/
 company: "[[Voyager VC]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

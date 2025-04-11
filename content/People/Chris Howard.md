@@ -5,7 +5,7 @@ tags:
 website: https://www.downthegardenpath.xyz/chris-howard/
 company: Down The Garden Path
 division: 
-title: Founder
+job title: Founder
 contact_type: entrepreneur
 url:
 ---

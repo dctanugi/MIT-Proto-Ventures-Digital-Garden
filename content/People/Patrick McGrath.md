@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Schmidt Futures]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

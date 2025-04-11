@@ -4,7 +4,7 @@ tags:
 website: https://www.linkedin.com/in/kuba-anglin-5a77a4137
 company: "[[Northeastern University]]"
 division: 
-title: Undergraduate student
+job title: Undergraduate student
 contact_type: researcher
 ---
 ## About

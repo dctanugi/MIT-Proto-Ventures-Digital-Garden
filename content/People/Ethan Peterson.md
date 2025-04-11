@@ -5,7 +5,7 @@ tags:
 interest_level: 3
 company: MIT
 division: PSFC
-title: research scientist
+job title: research scientist
 contact_type: researcher
 ---
 ## About

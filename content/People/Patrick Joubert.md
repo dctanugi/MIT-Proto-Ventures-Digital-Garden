@@ -7,7 +7,7 @@ tags:
 website: 
 company: "[[Beasight]]"
 division: 
-title: 
+job title: 
 contact_type: startup_operators
 ---
 ## About

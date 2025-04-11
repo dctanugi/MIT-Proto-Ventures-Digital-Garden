@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[digiLab]]"
 division: 
-title: 
+job title: 
 contact_type: 
 ---
 ## About

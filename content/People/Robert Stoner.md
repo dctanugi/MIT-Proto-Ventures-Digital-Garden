@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: Energy Initiative
-title: Interim Director
+job title: Interim Director
 contact_type: 
 ---
 ## About

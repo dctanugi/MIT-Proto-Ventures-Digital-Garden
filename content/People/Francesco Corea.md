@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/francescocorea/
 company: "[[Greycroft]]"
 division: 
-title: Director, Data Science
+job title: Director, Data Science
 contact_type: investor
 ---
 ## About

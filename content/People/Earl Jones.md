@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[DCVC]]"
 division: 
-title: Operating Partner
+job title: Operating Partner
 contact_type: investor
 ---
 ## About

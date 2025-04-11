@@ -5,7 +5,7 @@ tags:
 website: https://whereis.mit.edu/?go=NW16
 company: MIT
 division: Sloan
-title: Sloan Fellow
+job title: Sloan Fellow
 contact_type: startup_operators
 ---
 ## About

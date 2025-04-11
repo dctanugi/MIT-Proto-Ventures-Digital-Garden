@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: PSFC
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

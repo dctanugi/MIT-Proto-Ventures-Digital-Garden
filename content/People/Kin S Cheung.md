@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/kin-cheung-01950a152
 company: Atlas Capital
 division: 
-title: Chief Investment Officer
+job title: Chief Investment Officer
 contact_type:
 ---
 ## About

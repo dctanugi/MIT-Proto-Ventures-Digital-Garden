@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/andrew-seltzman-909aa34a/
 company: MIT
 division: PSFC
-title: Research Scientist
+job title: Research Scientist
 contact_type: researcher
 interest_level: 2
 ---

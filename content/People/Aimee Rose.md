@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/aimee-rose-2397a03/
 company: "[[Activate]]"
 division: 
-title: Executive Managing Director
+job title: Executive Managing Director
 contact_type: ecosystem
 ---
 ## About

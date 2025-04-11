@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[University of Melbourne]]"
 division: 
-title: 
+job title: 
 contact_type:
 ---
 ## About

@@ -4,7 +4,7 @@ tags:
 website: https://www.linkedin.com/in/asha-rajagopal-a6798437/
 company: MIT Lincoln Laboratories
 division: 
-title: Chief Ventures Officer
+job title: Chief Ventures Officer
 contact_type: ecosystem
 ---
 ## About

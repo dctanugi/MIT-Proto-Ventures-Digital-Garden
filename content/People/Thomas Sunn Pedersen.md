@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: http://www.columbia.edu/~tsp22/
 company: Type One Energy
-title: CTO
+job title: CTO
 contact_type: industry
 ---
 ## About

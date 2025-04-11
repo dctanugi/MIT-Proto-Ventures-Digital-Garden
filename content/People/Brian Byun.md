@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/brianbyun/
 company: "[[Khosla Ventures]]"
 division: 
-title: Venture Partner
+job title: Venture Partner
 contact_type: investor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Chemistry
-title: Doctoral candidate
+job title: Doctoral candidate
 contact_type: researcher
 ---
 ## About

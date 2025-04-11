@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://engine.xyz/people/vinny-beranek
 company: The Engine
-title: Director of Research & Analytics
+job title: Director of Research & Analytics
 contact_type: investor
 ---
 ## About

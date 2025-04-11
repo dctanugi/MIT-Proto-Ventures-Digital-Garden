@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Materials Science & Engineering
-title: Postdoc
+job title: Postdoc
 contact_type: researcher
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Brattle Group]]"
 division: 
-title: Principal
+job title: Principal
 contact_type: consultant
 ---
 ## About

@@ -6,7 +6,7 @@ tags:
 website: https://gallant.mit.edu/
 company: MIT
 division: Mechanical Engineering
-title: Associate Professor
+job title: Associate Professor
 contact_type: researcher
 ---
 ## About

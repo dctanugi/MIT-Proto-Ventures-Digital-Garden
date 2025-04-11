@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Earth & Planetary Sciences
-title: Research Scientist
+job title: Research Scientist
 contact_type: researcher
 ---
 ## About

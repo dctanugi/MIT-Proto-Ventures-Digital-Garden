@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: PSFC
-title: Postdoctoral Associate
+job title: Postdoctoral Associate
 contact_type: researcher
 ---
 ## About

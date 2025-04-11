@@ -4,7 +4,7 @@ tags:
 website: https://www.linkedin.com/in/hhaddad/
 company: "[[E14 Fund]]"
 division: 
-title: Managing Partner
+job title: Managing Partner
 contact_type: investor
 ---
 ## About

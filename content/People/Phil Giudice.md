@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/phil-giudice-180285/
 company: "[[FirstLight Power]]"
 division: 
-title: Board Chair
+job title: Board Chair
 contact_type: corporate
 ---
 ## About

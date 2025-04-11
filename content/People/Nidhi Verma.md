@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Sloan
-title: 
+job title: 
 contact_type: student
 ---
 ## About

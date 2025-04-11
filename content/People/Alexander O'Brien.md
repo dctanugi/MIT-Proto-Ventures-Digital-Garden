@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[AToMe]]"
 division: 
-title: CEO
+job title: CEO
 contact_type: startup_operators
 ---
 ## About

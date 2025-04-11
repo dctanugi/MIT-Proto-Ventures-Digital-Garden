@@ -4,7 +4,7 @@ tags:
 website: 
 company: "[[DCVC]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

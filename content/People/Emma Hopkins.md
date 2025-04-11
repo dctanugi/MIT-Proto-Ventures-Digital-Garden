@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/emma-hopkins-45305426b/
 company: MIT
 division: 
-title: Undergraduate student
+job title: Undergraduate student
 contact_type: student
 ---
 ## About

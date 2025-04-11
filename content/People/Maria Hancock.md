@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Rutherford Energy Ventures]]"
 division: 
-title: Chief Operating Officer
+job title: Chief Operating Officer
 contact_type:
 ---
 ## About

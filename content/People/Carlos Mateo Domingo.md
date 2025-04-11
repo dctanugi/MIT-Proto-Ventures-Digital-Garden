@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Comillas Universidad Pontificia]]"
 division: 
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

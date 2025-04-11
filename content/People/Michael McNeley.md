@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Bloom Energy]]"
 division: 
-title: Sr. Manager, Project Development
+job title: Sr. Manager, Project Development
 contact_type: corporate
 ---
 ## About

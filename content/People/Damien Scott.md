@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/damienscott/
 company: Marain
 division: 
-title: Founder
+job title: Founder
 contact_type: startup_operators
 ---
 ## About

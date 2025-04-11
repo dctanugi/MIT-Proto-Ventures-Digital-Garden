@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Breakthrough Energy Fellows]]"
 division: 
-title: Senior Associate
+job title: Senior Associate
 contact_type: ecosystem
 ---
 ## About

@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 company: MIT
 division: PSFC
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

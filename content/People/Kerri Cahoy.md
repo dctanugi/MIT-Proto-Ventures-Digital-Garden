@@ -5,7 +5,7 @@ tags:
 website: https://starlab.mit.edu/
 company: MIT
 division: Aero/Astro
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

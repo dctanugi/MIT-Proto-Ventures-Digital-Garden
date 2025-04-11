@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[VXI Capital]]"
 division: 
-title: Managing Partner
+job title: Managing Partner
 contact_type: investor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Blindspot VC]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

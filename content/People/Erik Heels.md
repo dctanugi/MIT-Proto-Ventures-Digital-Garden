@@ -6,7 +6,7 @@ tags:
 website: 
 company: Clocktower Law
 division: 
-title: Founder
+job title: Founder
 contact_type: vendor
 ---
 ## About

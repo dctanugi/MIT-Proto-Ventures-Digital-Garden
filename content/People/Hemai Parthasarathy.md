@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Google X]]"
 division: 
-title: 
+job title: 
 contact_type: ecosystem
 ---
 ## About

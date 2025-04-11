@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/limorspector/
 company: "[[GE Vernova]]"
 division: Ventures and Incubation
-title: President
+job title: President
 contact_type: investor
 ---
 ## About

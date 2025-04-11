@@ -2,7 +2,7 @@
 tags: people
 company: MIT
 division: Media Lab
-title: Research Affiliate
+job title: Research Affiliate
 contact_type: researcher
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Nuclear science & engineering
-title: 
+job title: 
 contact_type: Professor Emeritus
 ---
 ## About

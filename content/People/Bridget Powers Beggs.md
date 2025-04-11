@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[National Grid]]"
 division: Integrated Planning and Solutions
-title: Associate Engineer
+job title: Associate Engineer
 contact_type: corp
 ---
 ## About

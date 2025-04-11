@@ -5,7 +5,7 @@ tags:
 website: http://www.columbia.edu/~tsp22/
 company: MIT
 division: Mechanical Engineering
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

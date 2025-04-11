@@ -6,7 +6,7 @@ tags:
 website: 
 company: PJM
 division: Interconnection Analysis
-title: Senior Lead Engineer
+job title: Senior Lead Engineer
 contact_type: corporate
 ---
 ## About

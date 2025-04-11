@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/stephen-cruise-0a89197/
 company: "[[Greenhill]]"
 division: Global Industrials
-title: Managing Director
+job title: Managing Director
 contact_type: investor
 ---
 ## About

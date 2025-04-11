@@ -5,7 +5,7 @@ tags:
 website: http://hjkgrp.mit.edu/author/xiao-huang/
 company: MIT
 division: 
-title: Doctoral candidate
+job title: Doctoral candidate
 contact_type: researcher
 ---
 ## About

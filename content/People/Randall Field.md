@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: MITei
-title: 
+job title: 
 contact_type: researcher
 ---
 ## About

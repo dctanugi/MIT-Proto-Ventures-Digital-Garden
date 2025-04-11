@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.grid.harvard.edu/people
 company: Harvard University
 division: Harvard Grid
-title: Founding Executive Director
+job title: Founding Executive Director
 contact_type: administrator
 ---
 ## About

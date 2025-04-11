@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/james-long-1974582a/
 company: "[[Freewire]]"
 division: Aero/Astro
-title: 
+job title: 
 contact_type: startup_operators
 ---
 ## About

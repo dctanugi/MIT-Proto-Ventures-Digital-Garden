@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Mechanical Engineering
-title: PhD student
+job title: PhD student
 contact_type: researcher
 interest_level: 3
 ---

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures, work/industries/nuclear_fission
 website: https://www.linkedin.com/in/faris-f-5943851b2/
 company: Lowercarbon Capital
 division: Fusion
-title: Fellow
+job title: Fellow
 contact_type: investor
 ---
 ## About

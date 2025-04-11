@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/building-climate-and-hardtech/
 company: "[[Fine Structure Ventures]]"
 division: 
-title: Investor
+job title: Investor
 contact_type: investor
 ---
 ## About

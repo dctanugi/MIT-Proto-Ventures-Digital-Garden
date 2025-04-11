@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Massachusetts Clean Energy Center]]"
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

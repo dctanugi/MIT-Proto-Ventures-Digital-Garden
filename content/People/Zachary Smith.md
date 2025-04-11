@@ -5,7 +5,7 @@ tags:
 website: https://smithlab.mit.edu/research
 company: "[[MIT]]"
 division: Chemical Engineering
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

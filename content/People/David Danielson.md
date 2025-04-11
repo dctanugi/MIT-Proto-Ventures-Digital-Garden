@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/ddanielson1/
 company: "[[Breakthrough Energy Ventures]]"
 division: 
-title: Managing Director
+job title: Managing Director
 contact_type:
 ---
 ## About

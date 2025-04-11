@@ -5,7 +5,7 @@ tags:
 website: 
 company: The Engine
 division: 
-title: Managing Partner
+job title: Managing Partner
 contact_type: investor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/scaldwel/
 company: "[[National Grid]]"
 division: "[[Deshpande Center]]"
-title: Vice President, Utility of the Future, New England Transformation
+job title: Vice President, Utility of the Future, New England Transformation
 contact_type: corporate
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[ARIA]]"
 division: 
-title: Program Director
+job title: Program Director
 contact_type: funder
 ---
 ## About

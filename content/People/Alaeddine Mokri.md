@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Freewire]]"
 division: 
-title: Director of Software Engineering
+job title: Director of Software Engineering
 contact_type: startup_operators
 ---
 ## About

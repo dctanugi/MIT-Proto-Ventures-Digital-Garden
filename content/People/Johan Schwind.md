@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[URBAN-X]]"
 division: 
-title: Managing Director
+job title: Managing Director
 contact_type: investor
 ---
 ## About

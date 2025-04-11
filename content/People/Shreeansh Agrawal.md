@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/shreeansh-agrawal-67b398109/
 company: MIT
 division: 
-title: MBA Candidate
+job title: MBA Candidate
 contact_type:
 ---
 ## About

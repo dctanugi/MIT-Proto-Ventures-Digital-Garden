@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/romainserman/
 company: "[[BPIfrance]]"
 division: "[[MIT Energy Initiative|MITei]]"
-title: Director Bpifrance USA
+job title: Director Bpifrance USA
 contact_type: investor
 ---
 ## About

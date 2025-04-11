@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Octopus Energy]]"
 division: 
-title: 
+job title: 
 contact_type: corporate
 ---
 ## About

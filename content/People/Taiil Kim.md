@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/taiil-kim/
 company: Schneider Electric
 division: Strategy
-title: Director of Strategy
+job title: Director of Strategy
 contact_type: corporate
 ---
 ## About

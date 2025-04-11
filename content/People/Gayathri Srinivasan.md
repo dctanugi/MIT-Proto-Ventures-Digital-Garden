@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Corporate Relations
-title: Executive Director
+job title: Executive Director
 contact_type: administrator
 ---
 ## About

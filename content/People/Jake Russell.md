@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/jake-russell-0/
 company: "[[Propeller VC]]"
 division: 
-title: Operating Partner
+job title: Operating Partner
 contact_type: venture builder
 ---
 ## About

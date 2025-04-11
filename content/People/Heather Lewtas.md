@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/heather-lewtas-6a6727166/
 company: UK AEA
-title: Head of Innovation
+job title: Head of Innovation
 contact_type: government
 ---
 ## About

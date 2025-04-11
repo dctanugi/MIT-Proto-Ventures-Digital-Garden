@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 company: MIT
 division: PSFC
-title: Director of Strategic Initiatives
+job title: Director of Strategic Initiatives
 contact_type: advisor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Project Manus
-title: 
+job title: 
 contact_type: mentor
 ---
 ## About

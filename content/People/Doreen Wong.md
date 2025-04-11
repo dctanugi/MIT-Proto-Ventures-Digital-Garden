@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/doreenmwong/
 company: University of Hawaii
 division: 
-title: 
+job title: 
 contact_type: venture builder
 ---
 ## About

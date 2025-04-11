@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Exor]]"
 division: Exor Ventures
-title: Managing Director
+job title: Managing Director
 contact_type: investor
 ---
 ## About

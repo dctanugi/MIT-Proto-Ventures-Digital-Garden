@@ -5,7 +5,7 @@ tags:
 website: https://chemistry.mit.edu/profile/mircea-dinca/
 company: MIT
 division: Chemistry
-title: Professor
+job title: Professor
 contact_type: researcher
 ---
 ## About

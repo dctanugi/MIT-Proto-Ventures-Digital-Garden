@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Planet Labs]]"
 division: 
-title: Senior Machine Learning Engineer
+job title: Senior Machine Learning Engineer
 contact_type: startup_operators
 ---
 ## About

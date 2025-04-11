@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: Wings Fund
 division:
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Energy Impact Partners]]"
 division: 
-title: Director, Technology
+job title: Director, Technology
 contact_type: investor
 ---
 ## About

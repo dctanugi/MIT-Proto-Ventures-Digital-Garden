@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[National Grid]]"
 division: New England
-title: VP of Electric Asset Management & Engineering
+job title: VP of Electric Asset Management & Engineering
 contact_type: corporate
 ---
 ## About

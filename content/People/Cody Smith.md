@@ -6,7 +6,7 @@ tags:
 website: https://www.linkedin.com/in/cacosmi/
 company: "[[Camus Energy]]"
 division: 
-title: CTO and Co-founder
+job title: CTO and Co-founder
 contact_type: startup_operators
 ---
 ## About

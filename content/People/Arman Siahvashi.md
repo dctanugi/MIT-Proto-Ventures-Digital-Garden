@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: MIT
 division: PSFC
-title: Postdoctoral fellow
+job title: Postdoctoral fellow
 contact_type: researcher
 interest_level: 3
 ---

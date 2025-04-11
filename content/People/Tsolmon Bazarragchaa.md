@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Mechanical Engineering
-title: Undergraduate student
+job title: Undergraduate student
 contact_type: researcher
 ---
 ## About

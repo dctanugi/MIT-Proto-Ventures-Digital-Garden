@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Breakthrough Energy Ventures]]"
 division: 
-title: Partner
+job title: Partner
 contact_type: investor
 ---
 ## About

@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: 
 company: Greentown Labs
 division:
-title: SVP Partnerships
+job title: SVP Partnerships
 contact_type: incubator
 ---
 ## About

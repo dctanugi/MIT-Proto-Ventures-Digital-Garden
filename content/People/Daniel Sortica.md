@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Propeller VC]]"
 division: 
-title: Operating Partner
+job title: Operating Partner
 contact_type: venture builder
 ---
 ## About

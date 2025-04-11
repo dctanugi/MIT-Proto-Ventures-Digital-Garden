@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/ben-ullman-a324686
 company: Common Forge
 division: 
-title: CEO
+job title: CEO
 contact_type: startup_operators
 ---
 ## About

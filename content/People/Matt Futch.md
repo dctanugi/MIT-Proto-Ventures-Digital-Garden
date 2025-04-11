@@ -6,7 +6,7 @@ tags:
 website: 
 company: "[[Black & Veatch]]"
 division: 
-title: 
+job title: 
 contact_type:
 ---
 ## About

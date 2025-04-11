@@ -5,7 +5,7 @@ tags:
 website: https://scholar.google.com/citations?user=FntBK7AAAAAJ&hl=en
 company: MIT
 division: Mechanical Engineering
-title: Associate Professor
+job title: Associate Professor
 contact_type: researcher
 ---
 ## About

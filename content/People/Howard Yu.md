@@ -5,7 +5,7 @@ tags:
 website: 
 company: Aethra
 division: 
-title: 
+job title: 
 contact_type: entrepreneur
 ---
 ## About

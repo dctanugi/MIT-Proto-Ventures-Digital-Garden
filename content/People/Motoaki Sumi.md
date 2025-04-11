@@ -6,7 +6,7 @@ tags:
 website: 
 company: Ascension Earth Resources
 division: 
-title: CEO
+job title: CEO
 contact_type: entrepreneur
 ---
 ## About

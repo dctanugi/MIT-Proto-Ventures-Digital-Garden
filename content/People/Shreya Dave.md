@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Via Separations]]"
 division: 
-title: CEO
+job title: CEO
 contact_type: startup_operators
 ---
 ## About

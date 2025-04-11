@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://scholar.google.com/citations?user=tiu7kY0AAAAJ
 company: Savannah River National Laboratory
 division:
-title: Principal Scientist
+job title: Principal Scientist
 contact_type: researcher
 ---
 ## About

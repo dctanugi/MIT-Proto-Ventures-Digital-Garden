@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures, work/mit
 company: MIT
 division: Energy Initiative
-title: Executive Director
+job title: Executive Director
 contact_type: 
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: 
 company: Anderson Optimization
 division: 
-title: Senior Data Scientist
+job title: Senior Data Scientist
 contact_type: startup_operators
 ---
 ## About

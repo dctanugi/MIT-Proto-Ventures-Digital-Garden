@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[Amazon]]"
 division: AWS | AIS Supply Chain-ACM
-title: Sr. Global Commodity Manager
+job title: Sr. Global Commodity Manager
 contact_type: corporate
 ---
 ## About

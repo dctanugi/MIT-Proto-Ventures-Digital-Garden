@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/david-smith-9b022791/
 company: "[[National Grid]]"
 division: 
-title: VP Business Planning & Performance
+job title: VP Business Planning & Performance
 contact_type: corporate
 ---
 ## About

@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/daniel-slesinski/
 company: AES Energy
 division: 
-title: 
+job title: 
 contact_type: investor
 ---
 ## About

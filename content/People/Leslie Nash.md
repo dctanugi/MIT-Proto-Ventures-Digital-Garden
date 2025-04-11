@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/leslie-nash-b9a9a9166
 company: "[[Massachusetts Clean Energy Center]]"
 division: 
-title: Director of Technology-to-Market Programs
+job title: Director of Technology-to-Market Programs
 contact_type: ecosystem
 ---
 ## About

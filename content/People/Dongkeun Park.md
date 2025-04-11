@@ -4,7 +4,7 @@ tags:
   - work/proto_ventures
 company: MIT
 division: PSFC
-title: researcher
+job title: researcher
 contact_type: researcher
 interest_level: 3
 ---

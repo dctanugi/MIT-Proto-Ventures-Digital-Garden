@@ -5,7 +5,7 @@ tags:
 website: 
 company: MIT
 division: Sloan
-title: MBA Candidate
+job title: MBA Candidate
 contact_type: ecosystem
 ---
 ## About

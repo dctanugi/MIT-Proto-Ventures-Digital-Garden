@@ -6,7 +6,7 @@ tags:
 website: https://www.brattle.com/experts/johannes-p-pfeifenberger/
 company: "[[Brattle Group]]"
 division: 
-title: Principal
+job title: Principal
 contact_type: subject matter expert
 ---
 ## About

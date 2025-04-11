@@ -5,7 +5,7 @@ tags:
 website: 
 company: "[[National Grid]]"
 division: Innovative Grid Solutions
-title: Director, Innovative Grid Solutions & DG Ombudsperson
+job title: Director, Innovative Grid Solutions & DG Ombudsperson
 contact_type: corporate
 ---
 ## About

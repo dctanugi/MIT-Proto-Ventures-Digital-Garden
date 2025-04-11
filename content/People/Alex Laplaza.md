@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/alexlaplaza/
 company: "[[Lowercarbon Capital]]"
 division: 
-title: Partner
+job title: Partner
 contact_type: startup_operators
 ---
 ## About

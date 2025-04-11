@@ -5,7 +5,7 @@ tags:
 website: http://www.columbia.edu/~tsp22/
 company: "[[Lowercarbon Capital]]"
 division: 
-title: Partner and Head of Science
+job title: Partner and Head of Science
 contact_type: investor
 ---
 ## About

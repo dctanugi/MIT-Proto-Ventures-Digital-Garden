@@ -2,7 +2,7 @@
 tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/adam-wallen-7603646
 company: VEIR
-title: Senior Executive
+job title: Senior Executive
 contact_type: startup_operators
 ---
 ## About

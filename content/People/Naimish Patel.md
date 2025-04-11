@@ -3,7 +3,7 @@ tags: people, work/proto_ventures
 website: https://www.linkedin.com/in/naimish-patel-925a84/
 company: Hyperplane VC
 division: 
-title: Investor
+job title: Investor
 contact_type: advisor
 ---
 ## About

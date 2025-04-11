@@ -6,7 +6,7 @@ tags:
 website: https://www.linkedin.com/in/amy-roschelle/
 company: "[[WeaveGrid]]"
 division: 
-title: Utility, Automotive, and Charging Partnerships
+job title: Utility, Automotive, and Charging Partnerships
 contact_type: startup_operators
 ---
 ## About

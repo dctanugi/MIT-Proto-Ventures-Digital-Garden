@@ -6,7 +6,7 @@ tags:
 website: https://www.linkedin.com/in/stephen-smith-49251121/
 company: "[[National Grid]]"
 division: Strategy, Innovation and Market Analytics
-title: Group Head
+job title: Group Head
 contact_type: industry
 ---
 ## About

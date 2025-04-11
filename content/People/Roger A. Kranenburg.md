@@ -5,7 +5,7 @@ tags:
 website: https://www.linkedin.com/in/rogerkranenburg/
 company: "[[Eversource]]"
 division: 
-title: Vice President, Energy Strategy & Policy
+job title: Vice President, Energy Strategy & Policy
 contact_type: corporate
 ---
 ## About
