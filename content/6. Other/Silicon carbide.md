@@ -1,0 +1,1 @@
+Silicon carbide is hailed a promising material for fusion, but [[Mike Short]] is bearish on its applications for fusion: it's not ductile.
