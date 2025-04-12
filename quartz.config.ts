@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    { provider: 'google', tagId: 'G-FG402Y581B' },
+    analytics: { provider: 'google', tagId: 'G-FG402Y581B' },
     locale: "en-US",
     baseUrl: "https://cleanenergyfusionatmitprotoventures.netlify.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
