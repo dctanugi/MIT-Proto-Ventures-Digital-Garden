@@ -1,3 +1,0 @@
-#work/proto_ventures 
-- [[Nagarjuna Venna]]:  How to incubate these research projects: set up a $100M for-profit fund that is essentially even earlier stage VC (pre-pre-seed, extremely high risk). The fund helps incorporate companies and puts money in them, and then the companies fund sponsored research at MIT. Maybe the MIT researchers have a part-time appointment with the company as well. 
-- [[Dan Recht]]: this is what regular grant funding is for. You could also get grad students and postdocs to incubate these ideas on the down-low (see [[Club of Misfit Toys at PSFC]]).

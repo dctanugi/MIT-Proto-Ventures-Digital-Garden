@@ -1,4 +1,0 @@
----
-tags: work
-type: company
----

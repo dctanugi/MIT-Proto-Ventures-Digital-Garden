@@ -1,1 +1,0 @@
-[[Obsidian]] will never be a repository of all my emails or articles I've read or PDF to reports I've downloaded. So how can the [[Zettelkasten]] method work if it isn't the single repository of my ideas?
