@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "MIT Proto Ventures": "https://protoventures.mit.edu",
-      "David Cohen-Tanugi": "www.linkedin.com/in/dctanugi/",
+      "David Cohen-Tanugi": "https://www.linkedin.com/in/dctanugi/",
     },
   }),
 }
